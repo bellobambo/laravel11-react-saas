@@ -21,6 +21,6 @@ class DatabaseSeeder extends Seeder
         ]);
         Feature::create([
             'image' => 'https://static-00.iconduck.com/assets.00/plus-icon-2048x2048-z6v59bd6.png',
-        ])
+        ]);
     }
 }
